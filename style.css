@@ -1977,11 +1977,11 @@ img {
 }
 
 .single-price-table-area .price-value h2 span:first-child::after {
-  content: '$';
+  content: 'PKR';
   font-size: 30px;
   position: absolute;
   top: 23px;
-  right: -16px;
+  right: -59px;
   z-index: 1;
 }
 
