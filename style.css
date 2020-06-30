@@ -587,6 +587,7 @@ img {
 .slideshowcta p {
   color:white
 }
+
 @media only screen and (min-width: 768px) and (max-width: 991px) {
   .header-area .pixel-main-menu .classy-navbar {
     height: 70px;
