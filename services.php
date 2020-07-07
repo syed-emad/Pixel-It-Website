@@ -61,7 +61,7 @@
                             <div class="classynav">
                                 <ul>
                                     <li><a href="index.html">Home</a></li>
-                                    <li><a href="services.html">Services</a></li>
+                                    <li><a href="services.php">Services</a></li>
                                     <li><a href="portfolio.html">Portfolio</a></li>
                                     <li><a href="ourclients.html">Our Clients</a></li>
                                 </ul>
@@ -233,7 +233,7 @@ Copyright &copy;<script>document.write(new Date().getFullYear());</script> All r
                         <nav class="footer-nav">
                             <ul>
                                 <li><a href="index.html">Home</a></li>
-                                <li><a href="services.html">Services</a></li>
+                                <li><a href="services.php">Services</a></li>
                                 <li><a href="portfolio.html">Portfolio</a></li>    
                                 <li><a href="ourclients.html">Our Clients</a></li>
                             </ul>
