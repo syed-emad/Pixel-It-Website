@@ -151,7 +151,7 @@
                     <!-- Section Heading -->
                     <div class="section-heading" style="text-align:center">
                         <h2 >Get In Touch</h2>
-                        <h6>Dont worry.We will gave you a quotation according to your business needs.</h6>
+                        <h6>Don't worry. We will gave you a quotation according to your business needs.</h6>
                     </div>
 
                     <!-- Contact Form -->
