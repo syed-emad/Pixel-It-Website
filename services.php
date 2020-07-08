@@ -23,14 +23,14 @@
 
 <body>
     <!-- Preloader -->
-    <div class="preloader d-flex align-items-center justify-content-center">
+    <!-- <div class="preloader d-flex align-items-center justify-content-center">
         <div class="lds-ellipsis">
             <div></div>
             <div></div>
             <div></div>
             <div></div>
         </div>
-    </div>
+    </div> -->
 
     <!-- ##### Header Area Start ##### -->
     <header class="header-area">
@@ -84,7 +84,7 @@
     <!-- ##### Header Area End ##### -->
 
     <!-- ##### Breadcrumb Area Start ##### -->
-    <section class="breadcrumb-area bg-img bg-overlay jarallax" style="background-image: url(img/bg-img/services/8.png);">
+    <section class="breadcrumb-area bg-img bg-overlay jarallax" style="background-image: url(img/bg-img/services/8.jpg);">
         <div class="container-fluid h-100">
             <div class="row h-100 align-items-center">
                 <div class="col-12">
@@ -100,15 +100,15 @@
     <!-- ##### Services Catagory Area Start ##### -->
     <div class="services-catagory-area d-flex flex-wrap">
         <!-- Single Service Catagory -->
-        <div class="single-service-cata bg-img d-flex align-items-center justify-content-center jarallax" style="background-image: url(img/bg-img/services/20.png);">
+        <div class="single-service-cata bg-img d-flex align-items-center justify-content-center jarallax" style="background-image: url(img/bg-img/services/20.jpg);">
             <a href="#">Social Media Marketing</a>
         </div>
         <!-- Single Service Catagory -->
-        <div class="single-service-cata bg-img d-flex align-items-center justify-content-center jarallax" style="background-image: url(img/bg-img/services/branding.png);">
+        <div class="single-service-cata bg-img d-flex align-items-center justify-content-center jarallax" style="background-image: url(img/bg-img/services/branding.jpg);">
             <a href="#">Branding <br> Identity </a>
         </div>
         <!-- Single Service Catagory -->
-        <div class="single-service-cata bg-img d-flex align-items-center justify-content-center jarallax" style="background-image: url(img/bg-img/services/19.png);">
+        <div class="single-service-cata bg-img d-flex align-items-center justify-content-center jarallax" style="background-image: url(img/bg-img/services/19.jpg);">
             <a href="#">Graphic <br> Design</a>
         </div>
         
