@@ -183,19 +183,19 @@
                 <!-- Single Footer Widget -->
                 <div class="col-12 col-md-9 col-lg-8 col-xl-7">
                     <div class="row">
-                        <!-- Single Footer Widget
+                        <!-- Single Footer Widget -->
                         <div class="col-sm-4">
-                            <div class="single-footer-widget mb-100">
+                            <!-- <div class="single-footer-widget mb-100">
                                 <h5 class="widget-title">Contact Us</h5>
                                 <p><i class="fa fa-phone"></i> +92 331 8027536</p>
-                            </div>
-                        </div> -->
+                            </div> -->
+                        </div>
 
                         <!-- Single Footer Widget -->
                         <div class="col-sm-4">
                             <div class="single-footer-widget mb-100">
                                 <h5 class="widget-title">Email</h5>
-                                <p><i class="fa fa-phone"></i>pixelit100@gmail.com</p>
+                                <p><i class="fa fa-phone"></i>customercare@pixelit.pk</p>
                             </div>
                         </div>
 
