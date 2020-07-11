@@ -194,8 +194,8 @@
                         <!-- Single Footer Widget -->
                         <div class="col-sm-4">
                             <div class="single-footer-widget mb-100">
-                                <h5 class="widget-title">Email</h5>
-                                <p><i class="fa fa-envelope"></i>customercare@pixelit.pk</p>
+                                 <h5 class="widget-title">Email</h5>
+                                <p style="font-size:13px"><i class="fa fa-envelope"></i>customercare@pixelit.pk</p>
                             </div>
                         </div>
 
