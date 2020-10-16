@@ -157,10 +157,10 @@
                     <!-- Contact Form -->
                     <div class="contact-form-area mb-100">
                         <form action="sendEmail.php" method="post">
-                            <input type="text" name="name" class="form-control" placeholder="Name">
-                            <input type="text" name="email" class="form-control" placeholder="E-mail">
-                            <input type="text" name="subject" class="form-control" placeholder="Type of work">
-                            <textarea name="message" class="form-control" placeholder="Requirements & Budget details"></textarea>
+                            <input type="text" name="name" class="form-control" placeholder="Name" required>
+                            <input type="email" name="email" class="form-control" placeholder="E-mail" required>
+                            <input type="text" name="subject" class="form-control" placeholder="Type of work" required>
+                            <textarea name="message" required class="form-control" placeholder="Requirements & Budget details"></textarea>
                             <button type="submit"   class="btn pixel-btn">Send Message</button>
                         </form>
                     </div>
