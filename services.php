@@ -1,5 +1,3 @@
-
-
 <!DOCTYPE html>
 <html lang="en">
 
@@ -71,7 +69,7 @@
                                     <a href="https://www.instagram.com/pixelitdesign/" target="_blank"><i class="fa fa-instagram"></i></a>
                                     <a href="https://www.behance.net/pixelitdesign" target="_blank"><i class="fa fa-behance"></i></a>
                                     <a href="https://dribbble.com/pixelitdesign" target="_blank"><i class="fa fa-dribbble"></i></a>
-                                
+
                                 </div>
                             </div>
                             <!-- Nav End -->
@@ -111,34 +109,41 @@
         <div class="single-service-cata bg-img d-flex align-items-center justify-content-center jarallax" style="background-image: url(img/bg-img/services/19.jpg);">
             <a href="#">Graphic <br> Design</a>
         </div>
-        
+
     </div>
     <!-- ##### Services Catagory Area End ##### -->
 
-   
-     <!-- ##### Services Block Area Start ##### -->
-     <section class="services-block-area section-padding-100-0">
+
+    <!-- ##### Services Block Area Start ##### -->
+    <section class="services-block-area section-padding-100-0">
         <div class="container">
             <div class="row">
                 <!-- Single Service Block -->
-                <div class="col-12 col-md-6 col-lg-4">
+                <div class="col-12 col-md-5 col-lg-3">
                     <div class="single-service-block mb-100 wow fadeInUp" data-wow-delay="100ms">
                         <h4>Social Media Marketing</h4>
                         <p>From the marketing timeline, to designing posters, to creating social media accounts and their timely handling and execution, we do it all for your growing business. </p>
                     </div>
                 </div>
                 <!-- Single Service Block -->
-                <div class="col-12 col-md-6 col-lg-4">
+                <div class="col-12 col-md-5 col-lg-3">
                     <div class="single-service-block mb-100 wow fadeInUp" data-wow-delay="300ms">
                         <h4>Branding Identity</h4>
                         <p>We will give your brand a unique identity from logos, typography, packaging and card designs, and color themes in such a way that it stands out in the crowd. </p>
                     </div>
                 </div>
                 <!-- Single Service Block -->
-                <div class="col-12 col-md-6 col-lg-4">
+                <div class="col-12 col-md-5 col-lg-3">
                     <div class="single-service-block mb-100 wow fadeInUp" data-wow-delay="500ms">
                         <h4>Graphic Design</h4>
                         <p>Want to relieve your stress of creating out-of-the-box designs? Well, worry not because we can handle all of that creative work and provide you with designs that will wow your customers.</p>
+                    </div>
+                </div>
+                <div class="col-12 col-md-5 col-lg-3">
+                    <div class="single-service-block mb-100 wow fadeInUp" data-wow-delay="500ms">
+                        <h4>Web development</h4>
+                        <p>Our goal is building smarter websites that are user-friendly and interactive. Our dedicated team works to develop a visual appealing and innovative website designed according to your vision.
+                        </p>
                     </div>
                 </div>
             </div>
@@ -146,26 +151,26 @@
     </section>
     <!-- ##### Services Block Area End ##### -->
 
-       <!-- Single Contact Area -->
-                <div class="offset-3  col-6  ">
-                    <!-- Section Heading -->
-                    <div class="section-heading" style="text-align:center">
-                        <h2 >Get In Touch</h2>
-                        <h6>Don't worry. We will gave you a quotation according to your business needs.</h6>
-                    </div>
+    <!-- Single Contact Area -->
+    <div class="offset-3  col-6  ">
+        <!-- Section Heading -->
+        <div class="section-heading" style="text-align:center">
+            <h2>Get In Touch</h2>
+            <h6>Don't worry. We will gave you a quotation according to your business needs.</h6>
+        </div>
 
-                    <!-- Contact Form -->
-                    <div class="contact-form-area mb-100">
-                        <form action="sendEmail.php" method="post">
-                            <input type="text" name="name" class="form-control" placeholder="Name" required>
-                            <input type="email" name="email" class="form-control" placeholder="E-mail" required>
-                            <input type="text" name="subject" class="form-control" placeholder="Type of work" required>
-                            <textarea name="message" required class="form-control" placeholder="Requirements & Budget details"></textarea>
-                            <button type="submit"   class="btn pixel-btn">Send Message</button>
-                        </form>
-                    </div>
-                </div>
-  
+        <!-- Contact Form -->
+        <div class="contact-form-area mb-100">
+            <form action="sendEmail.php" method="post">
+                <input type="text" name="name" class="form-control" placeholder="Name" required>
+                <input type="email" name="email" class="form-control" placeholder="E-mail" required>
+                <input type="text" name="subject" class="form-control" placeholder="Type of work" required>
+                <textarea name="message" required class="form-control" placeholder="Requirements & Budget details"></textarea>
+                <button type="submit" class="btn pixel-btn">Send Message</button>
+            </form>
+        </div>
+    </div>
+
 
     <!-- ##### Footer Area Start ##### -->
     <footer class="footer-area section-padding-100-0">
@@ -194,7 +199,7 @@
                         <!-- Single Footer Widget -->
                         <div class="col-sm-4">
                             <div class="single-footer-widget mb-100">
-                                 <h5 class="widget-title">Email</h5>
+                                <h5 class="widget-title">Email</h5>
                                 <p style="font-size:13px"><i class="fa fa-envelope"></i>customercare@pixelit.pk</p>
                             </div>
                         </div>
@@ -208,7 +213,7 @@
                                     <a href="https://www.instagram.com/pixelitdesign/" target="_blank"><i class="fa fa-instagram"></i></a>
                                     <a href="https://www.behance.net/pixelit100" target="_blank"><i class="fa fa-behance"></i></a>
                                     <a href="https://dribbble.com/pixelitdesign" target="_blank"><i class="fa fa-dribbble"></i></a>
-                                
+
                                 </div>
                             </div>
                         </div>
@@ -224,10 +229,13 @@
                     <div class="col-12 col-md-6">
                         <div class="copywrite-content">
                             <!-- Copywrite Text -->
-                            <p class="copywrite-text"><!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
-Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved Colorlib</a>
-<!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
-</p>
+                            <p class="copywrite-text">
+                                <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
+                                Copyright &copy;<script>
+                                    document.write(new Date().getFullYear());
+                                </script> All rights reserved Colorlib</a>
+                                <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
+                            </p>
                         </div>
                     </div>
                     <div class="col-12 col-md-6">
@@ -235,7 +243,7 @@ Copyright &copy;<script>document.write(new Date().getFullYear());</script> All r
                             <ul>
                                 <li><a href="index.html">Home</a></li>
                                 <li><a href="services.php">Services</a></li>
-                                <li><a href="portfolio.html">Portfolio</a></li>    
+                                <li><a href="portfolio.html">Portfolio</a></li>
                                 <li><a href="ourclients.html">Our Clients</a></li>
                             </ul>
                         </nav>
